@@ -1,3 +1,3 @@
-Thanks to team Cypress for this real world demo app ❤️
+## Payments-App
 
-<a href="https://github.com/cypress-io/cypress-realworld-app">Original repo</a>
+Practice React-Project to learn testing of React-Apps using React Testing Library, Jest & Cypress
