@@ -28,3 +28,5 @@ Practice React-Project to learn testing of React-Apps using React Testing Librar
     	- user interactions
     	- conditional rendering
     	- utils / hooks
+
+Practice Project for testing React-App using React Testing Library, Jest & Cypress
